@@ -64,8 +64,7 @@ Required libraries (`requirements.txt`):
 
 ---
 
- ![Here is my project link](https://project-customer-segmentation-for-pj24.onrender.com)
-
+## <a href ='https://project-customer-segmentation-for-pj24.onrender.com' > This is my project link </a> 
 
 ---
 
