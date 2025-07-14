@@ -1,7 +1,7 @@
-
 # 🧠 Customer Segmentation for Personalized Banking Services
 
-This project demonstrates how a global-level bank (like Goldman Sachs) can use **data analytics and machine learning** to segment customers and offer personalized banking services using data-driven insights.
+This project provides an end-to-end solution to segment banking customers based on their behavior and spending patterns using machine learning, and visualizes these insights using **Power BI** and **Streamlit**. It helps banks like **Goldman Sachs** offer tailored financial services.
+
 
 ---
 
@@ -18,10 +18,29 @@ This project demonstrates how a global-level bank (like Goldman Sachs) can use *
   - Power BI (for visualization)
 
 ---
-## 📸 Demo
-![App Screenshot](https://raw.githubusercontent.com/ramashishmaurya/Project-Customer-Segmentation-for-Personalized-Banking-Services/main/Streamlit_page-0001.jpg)
+## 📸 Customer Segmentation System 
+![App Screenshot](https://github.com/ramashishmaurya/Project-Customer-Segmentation-for-Personalized-Banking-Services/blob/main/Streamlit_page-0002.png)
 
+## Interactive Dashboard Overview
+   This interactive dashboard provides a comprehensive view of Customer Segmentation for Personalized Banking Services. Built using Power BI, it allows users to explore customer demographics, spending patterns, preferred payment methods, and income distributions across various segments.
+   
+## Key Features:
+ Gender & Occupation Filters: Dynamically filter customer data based on gender or profession to uncover personalized insights.
+ Spending Categories: Visualize how customers allocate their expenses across categories like Bills, Food, Healthcare, Travel, and more.
+ 
+ Customer Distribution by City:
+ Understand geographic concentration with a city-wise breakdown of customer count.
+ Mode of Payment by Company:
+ Analyze which companies (e.g., Paytm, Swiggy, Uber) customers prefer for credit or debit transactions.
+ Income Distribution by Occupation: Get insights into average income across different job roles to tailor banking products accordingly.
+ 
 ---
+## 📸 Dashboard 
+![App Screenshot](https://github.com/ramashishmaurya/Project-Customer-Segmentation-for-Personalized-Banking-Services/blob/main/powerbi_page-0001.jpg)
+
+-----
+
+
 
 ## 🛠️ Tech Stack
 
@@ -44,6 +63,12 @@ Required libraries (`requirements.txt`):
 
 
 ---
+
+ ![Here is my project link](https://project-customer-segmentation-for-pj24.onrender.com)
+
+
+---
+
 
 ## 🚀 Installation
 
